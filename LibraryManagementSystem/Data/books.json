@@ -1,0 +1,103 @@
+[
+  {
+    "Id": 1,
+    "ISBN": "978-0345337662",
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "PublicationYear": 1937,
+    "Price": 12.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 2,
+    "ISBN": "978-0061120084",
+    "Title": "To Kill a Mockingbird",
+    "Author": "Harper Lee",
+    "PublicationYear": 1960,
+    "Price": 14.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 3,
+    "ISBN": "978-0141439518",
+    "Title": "Moby-Dick",
+    "Author": "Herman Melville",
+    "PublicationYear": 1851,
+    "Price": 10.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 4,
+    "ISBN": "978-1451673319",
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "PublicationYear": 1925,
+    "Price": 9.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 5,
+    "ISBN": "978-0743273565",
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "PublicationYear": 1951,
+    "Price": 11.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 6,
+    "ISBN": "978-0062315007",
+    "Title": "1984",
+    "Author": "George Orwell",
+    "PublicationYear": 1949,
+    "Price": 13.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 7,
+    "ISBN": "978-0061120085",
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "PublicationYear": 1954,
+    "Price": 18.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 8,
+    "ISBN": "978-0743273566",
+    "Title": "Pride and Prejudice",
+    "Author": "Jane Austen",
+    "PublicationYear": 1813,
+    "Price": 7.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 9,
+    "ISBN": "978-0143562578",
+    "Title": "The Alchemist",
+    "Author": "Paulo Coelho",
+    "PublicationYear": 1988,
+    "Price": 15.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  },
+  {
+    "Id": 10,
+    "ISBN": "978-0679416937",
+    "Title": "One Hundred Years of Solitude",
+    "Author": " Gabriel Garcia",
+    "PublicationYear": 1967,
+    "Price": 15.99,
+    "TotalCopies": 1,
+    "AvailabilityStatus": "Available"
+  }
+]
+
